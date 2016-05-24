@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: windows-time-rules
+permalink: /windows-time-rules
 ---
 
 # Windows Time Rules
