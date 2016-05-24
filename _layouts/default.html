@@ -6,21 +6,21 @@
 			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 		</head>
 		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/event-ids">Event IDs</a></li>
-	        		<li><a href="/windows-normal">Normal</a></li>
-	        		<li><a href="/windows-time-rules">Windows Time Rules</a></li>
-	          		<li><a href="/windows-artifacts">Windows Artifacts</a></li>
-	    		</ul>
-			</nav>
 			<div class="container">
-			
-			{{ content }}
-			
-			</div><!-- /.container -->
-			<footer>
-			</footer>
+				<nav class="navbar navbar-inverse">
+			    		<ul>
+			        		<li><a href="/">Home</a></li>
+				        	<li><a href="/event-ids">Event IDs</a></li>
+			        		<li><a href="/windows-normal">Windows Normal</a></li>
+			        		<li><a href="/windows-time-rules">Windows Time Rules</a></li>
+			          		<li><a href="/windows-artifacts">Windows Artifacts</a></li>
+			    		</ul>
+				</nav>
+				<div class="container">
+				
+				{{ content }}
+				
+				</div><!-- /.container -->
+			</div>
 		</body>
 	</html>
