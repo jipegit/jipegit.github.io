@@ -1,3 +1,7 @@
+---
+permalink: /event-ids
+---
+
 # Windows Event IDs and Lateral Movements 
 
 | Scheduled Tasks Log  | XP: %SystemRoot%\SchedLgu.txt - 7: %SystemRoot%\Tasks\SchedLgu.txt  |             |                                                   |
