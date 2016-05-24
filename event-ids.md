@@ -5,6 +5,7 @@ permalink: /event-ids
 
 # Windows Event IDs and Lateral Movements 
 
+{:.table-striped}
 | Scheduled Tasks Log  | XP: %SystemRoot%\SchedLgu.txt - 7: %SystemRoot%\Tasks\SchedLgu.txt  |             |                                                   |
 |----------------------|---------------------------------------------------------------------|-------------|---------------------------------------------------|
 |                      | 106                                                                 |             | Task Scheduled                                    |
