@@ -31,3 +31,11 @@ permalink: /event-ids
 |                      |                                                                     | 7036        | Service sent a started or stoped                  |
 |                      |                                                                     | 7040        | Start type changed (Boot | On request | Disabled) |
 | Clearing Event Logs  | 517                                                                 |             |                                                   |
+
+# Tool
+
+[logparser](https://www.microsoft.com/en-us/download/details.aspx?id=24659)
+
+# Source
+
+https://digital-forensics.sans.org/media/poster-windows-forensics-2016.pdf
