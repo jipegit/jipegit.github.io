@@ -1,5 +1,5 @@
 ---
-permalink: /event-ids
+permalink: /normal
 ---
 
 #Normal 
