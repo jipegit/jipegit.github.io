@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /normal
+permalink: /windows-normal
 ---
 
 # Windows Normal 
