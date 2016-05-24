@@ -2,7 +2,7 @@
 permalink: /normal
 ---
 
-#Normal 
+# Normal 
 
 ## System 
 	Image Path: No Image Path
