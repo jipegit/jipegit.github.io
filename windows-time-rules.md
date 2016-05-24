@@ -7,6 +7,7 @@ permalink: /windows-time-rules
 
 ## $STDINFO
 
+{:.table-striped}
 | File Rename          | Local File Move      | Volume File Move     | File Copy            | File Access                             | File Modify          | File Creation      | File Deletion        |
 |----------------------|----------------------|----------------------|----------------------|-----------------------------------------|----------------------|--------------------|----------------------|
 | Modified – No Change | Modified – No Change | Modified – No Change | Modified – No Change | Modified – No Change                    | <b>Modified – Change</b>    | <b>Modified – Change</b>  | Modified – No Change |
@@ -16,6 +17,7 @@ permalink: /windows-time-rules
 
 ## $FILENAME
 
+{:.table-striped}
 | File Rename          | Local File Move      | Volume File Move   | File Copy          | File Access          | File Modify          | File Creation      | File Deletion        |
 |----------------------|----------------------|--------------------|--------------------|----------------------|----------------------|--------------------|----------------------|
 | Modified – No Change | <b>Modified – Change</b>    | <b>Modified – Change</b>  | <b>Modified – Change</b>  | Modified – No Change | Access – No Change   | <b>Modified – Change</b>  | Modified – No Change |
