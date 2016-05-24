@@ -1,8 +1,9 @@
 ---
+layout: default
 permalink: /normal
 ---
 
-# Normal 
+# Windows Normal 
 
 ## System 
 	Image Path: No Image Path
