@@ -35,9 +35,9 @@ permalink: /event-ids
 
 # Tool
 
-[Microsoft logparser](https://www.microsoft.com/en-us/download/details.aspx?id=24659)
-[Log Parser Lizard](http://www.lizard-labs.com/log_parser_lizard.aspx)
-[CERT Société Générale Event2Timeline](https://github.com/certsocietegenerale/event2timeline)
+* [Microsoft logparser](https://www.microsoft.com/en-us/download/details.aspx?id=24659)
+* [Log Parser Lizard](http://www.lizard-labs.com/log_parser_lizard.aspx)
+* [CERT Société Générale Event2Timeline](https://github.com/certsocietegenerale/event2timeline)
 
 # Source
 
