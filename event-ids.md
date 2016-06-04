@@ -33,13 +33,13 @@ permalink: /event-ids
 |                      |                                                                     | 7040        | Start type changed (Boot | On request | Disabled) |
 | Clearing Event Logs  | 517                                                                 |             |                                                   |
 
-# Tool
+# Tools
 
 * [Microsoft logparser](https://www.microsoft.com/en-us/download/details.aspx?id=24659)
 * [Log Parser Lizard](http://www.lizard-labs.com/log_parser_lizard.aspx)
 * [CERT Société Générale Event2Timeline](https://github.com/certsocietegenerale/event2timeline)
 
-# Source
+# Sources
 
 * <https://digital-forensics.sans.org/media/poster-windows-forensics-2016.pdf>
 * <https://digital-forensics.sans.org/blog/2011/02/10/computer-forensics-howto-microsoft-log-parser>

@@ -27,7 +27,7 @@ permalink: /windows-time-rules
 
 ## $FILENAME
 
-{:.table-bordered}
+{:.table-hover}
 | File Rename          | Local File Move      | Volume File Move   | File Copy          | File Access          | File Modify          | File Creation      | File Deletion        |
 |----------------------|----------------------|--------------------|--------------------|----------------------|----------------------|--------------------|----------------------|
 | Modified | <b>Modified</b>    | <b>Modified</b>  | <b>Modified</b>  | Modified | Access   | <b>Modified</b>  | Modified |
@@ -36,6 +36,6 @@ permalink: /windows-time-rules
 | Metadata  | <b>Metadata</b>   | <b>Metadata</b> | <b>Metadata</b> | Metadata  | Metadata   | <b>Metadata </b> | Metadata  |
 
 
-# Source
+# Sources
 
 * <https://digital-forensics.sans.org/media/poster-windows-forensics-2016.pdf>
