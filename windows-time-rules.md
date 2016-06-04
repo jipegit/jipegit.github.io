@@ -13,7 +13,7 @@ permalink: /windows-time-rules
 | Modified  | Modified  | Modified  | Modified  | Modified                     | <b>Modified </b>    | <b>Modified </b>  | Modified  |
 | Access    | Access    | <b>Access </b>      | <b>Access </b>      | <b>Access </b> No Change on Vista/Win7 | Access    | <b>Access </b>    | Access    |
 | Creation  | Creation  | Creation  | <b>Creation </b>    | Creation                     | Creation  | <b>Creation </b>  | Creation  |
-| <b>Metadata d</b>   | <b>Metadata d</b>   | <b>Metadata d</b>   | <b>Metadata d</b>   | <b>Metadata d</b>                      | <b>Metadata d</b>   | <b>Metadata d</b> | Metadata  |
+| <b>Metadata </b>   | <b>Metadata </b>   | <b>Metadata </b>   | <b>Metadata </b>   | <b>Metadata </b>                      | <b>Metadata </b>   | <b>Metadata </b> | Metadata  |
 
 <b>Bold = modified</b>
 
