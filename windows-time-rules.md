@@ -27,7 +27,7 @@ permalink: /windows-time-rules
 
 ## $FILENAME
 
-{:.table-hover}
+{:.table-bordered}
 | File Rename          | Local File Move      | Volume File Move   | File Copy          | File Access          | File Modify          | File Creation      | File Deletion        |
 |----------------------|----------------------|--------------------|--------------------|----------------------|----------------------|--------------------|----------------------|
 | Modified | <b>Modified</b>    | <b>Modified</b>  | <b>Modified</b>  | Modified | Access   | <b>Modified</b>  | Modified |
@@ -35,6 +35,7 @@ permalink: /windows-time-rules
 | Creation  | Creation  | <b>Creation</b>  | <b>Creation</b>  | Creation | Creation | <b>Creation</b>  | Creation  |
 | Metadata  | <b>Metadata</b>   | <b>Metadata</b> | <b>Metadata</b> | Metadata  | Metadata   | <b>Metadata </b> | Metadata  |
 
+<b>Bold = modified</b>
 
 # Sources
 
