@@ -10,20 +10,13 @@ permalink: /windows-time-rules
 {:.table-bordered}
 | File Rename          | Local File Move      | Volume File Move     | File Copy            | File Access                             | File Modify          | File Creation      | File Deletion        |
 |----------------------|----------------------|----------------------|----------------------|-----------------------------------------|----------------------|--------------------|----------------------|
-| Modified – No Change | Modified – No Change | Modified – No Change | Modified – No Change | Modified – No Change                    | <b>Modified – Change</b>    | <b>Modified – Change</b>  | Modified – No Change |
-| Access – No Change   | Access – No Change   | <b>Access – Change</b>      | <b>Access – Change</b>      | <b>Access – Change</b> No Change on Vista/Win7 | Access – No Change   | <b>Access – Change</b>    | Access – No Change   |
-| Creation – No Change | Creation – No Change | Creation – No Change | <b>Creation – Change</b>    | Creation – No Change                    | Creation – No Change | <b>Creation – Change</b>  | Creation – No Change |
-| <b>Metadata – Changed</b>   | <b>Metadata – Changed</b>   | <b>Metadata – Changed</b>   | <b>Metadata – Changed</b>   | <b>Metadata – Changed</b>                      | <b>Metadata – Changed</b>   | <b>Metadata – Changed</b> | Metadata – No Change |
+| Modified  | Modified  | Modified  | Modified  | Modified                     | <b>Modified </b>    | <b>Modified </b>  | Modified  |
+| Access    | Access    | <b>Access </b>      | <b>Access </b>      | <b>Access </b> No Change on Vista/Win7 | Access    | <b>Access </b>    | Access    |
+| Creation  | Creation  | Creation  | <b>Creation </b>    | Creation                     | Creation  | <b>Creation </b>  | Creation  |
+| <b>Metadata d</b>   | <b>Metadata d</b>   | <b>Metadata d</b>   | <b>Metadata d</b>   | <b>Metadata d</b>                      | <b>Metadata d</b>   | <b>Metadata d</b> | Metadata  |
 
-## $FILENAME
+<b>Bold = modified</b>
 
-{:.table-bordered}
-| File Rename          | Local File Move      | Volume File Move   | File Copy          | File Access          | File Modify          | File Creation      | File Deletion        |
-|----------------------|----------------------|--------------------|--------------------|----------------------|----------------------|--------------------|----------------------|
-| Modified – No Change | <b>Modified – Change</b>    | <b>Modified – Change</b>  | <b>Modified – Change</b>  | Modified – No Change | Access – No Change   | <b>Modified – Change</b>  | Modified – No Change |
-| Access – No Change   | Access – No Change   | <b>Access – Change</b>    | <b>Access – Change</b>    | Access – No Change   | Access – No Change   | <b>Access – Change</b>    | Access – No Change   |
-| Creation – No Change | Creation – No Change | <b>Creation – Change</b>  | <b>Creation – Change</b>  | Creation – No Change | Creation – No Change | <b>Creation – Change</b>  | Creation – No Change |
-| Metadata – No Change | <b>Metadata – Changed</b>   | <b>Metadata – Changed</b> | <b>Metadata – Changed</b> | Metadata – No Change   | Metadata – No Change   | <b>Metadata – Changed</b> | Metadata – No Change |
 
 ## $FILENAME
 
