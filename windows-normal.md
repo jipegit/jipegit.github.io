@@ -85,5 +85,6 @@ permalink: /windows-normal
 	User account: logged-user
 	Start Time: Starts when the ownser's interactive session logon begins
 
-## Source
-https://digital-forensics.sans.org/media/Poster_2016_Find_Evil.pdf
+# Sources
+
+* <https://digital-forensics.sans.org/media/Poster_2016_Find_Evil.pdf>
